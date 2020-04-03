@@ -56,6 +56,8 @@ however, most older libc5 and, older still, libc4 systems will most
 likely _not_ have thread support. You will need to install the
 linuxthreads package.
 
+```build linux-x86```
+
 #### Win32
 
 The win32-x86-msvc makefile now works, but you will need a couple helper
